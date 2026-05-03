@@ -36,7 +36,7 @@
   width: min(88vw, 105.5rem);
   min-height: 100svh;
   margin: 0 auto;
-  padding: clamp(3.9rem, 4.5vw, 4.75rem) 0 clamp(1.25rem, 2vw, 2rem);
+  padding: clamp(3rem, 3.5vw, 4.75rem) 0 clamp(1.25rem, 2vw, 2rem);
 }
 
 .portfolio-hero h1 {
