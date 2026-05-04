@@ -63,7 +63,7 @@
   position: relative;
   box-sizing: border-box;
   display: flex;
-  width: min(88.5vw, 105.25rem);
+  width: min(84.5vw, 100rem);
   height: 100svh;
   min-height: 0;
   margin: 0 auto;
@@ -100,7 +100,7 @@
 .portfolio-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: clamp(1rem, 1.8vw, 2.1rem);
+  gap: clamp(1.15rem, 2vw, 2.45rem);
   margin-top: clamp(3.2rem, 9.7svh, 5.35rem);
 }
 
@@ -109,7 +109,7 @@
   --card-accent-rgb: 232 236 242;
 
   position: relative;
-  height: clamp(18.5rem, 48.2svh, 25.2rem);
+  height: clamp(17.25rem, 42.5svh, 22.75rem);
   min-height: 0;
   padding: 0;
   overflow: hidden;
